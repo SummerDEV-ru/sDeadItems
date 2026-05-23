@@ -1,0 +1,14 @@
+# sDeadItems Configuration
+# Author: Saminolov | t.me/SummerDEV
+
+# Plugin enabled or disabled
+enabled: true
+
+# List of items that will be randomly given on player death
+# Format: MATERIAL:AMOUNT
+# Example: DIAMOND:1, GOLDEN_APPLE:2, NETHERITE_INGOT:1
+items:
+  - DIAMOND:1
+  - GOLDEN_APPLE:1
+  - EMERALD:3
+  - EXPERIENCE_BOTTLE:5

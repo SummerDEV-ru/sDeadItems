@@ -1,0 +1,12 @@
+name: sDeadItems
+version: 1.0.0
+main: me.saminolv.sdeaditems.SDeadItems
+api-version: 1.16
+author: Saminolov | t.me/SummerDEV
+description: Random item drop on player death
+
+commands:
+  sdi:
+    description: Main sDeadItems command
+    usage: /<command> <gui|on|off>
+    aliases: [sdeaditems]
